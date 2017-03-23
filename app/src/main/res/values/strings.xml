@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wifi Manager</string>
+    <string name="switch_tips">May the Wifi be with you</string>
+    <string name="blog_address"><a herf="http://ntflc.com">http://ntflc.com</a></string>
+</resources>
